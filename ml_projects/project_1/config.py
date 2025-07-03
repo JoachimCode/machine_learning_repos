@@ -1,0 +1,1 @@
+DATA_PATH = "/Volumes/Untitled/data/cereal.csv"
